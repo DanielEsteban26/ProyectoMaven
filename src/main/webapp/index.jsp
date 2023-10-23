@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2>Regitrar Empleado</h2>
+<h2>Regitrar Empleados</h2>
 
-<h1>Gestionar Empleado</h1>
+<h1 align="center">Gestionar Empleados</h1>
 </body>
 </html>
